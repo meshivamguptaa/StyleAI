@@ -73,3 +73,8 @@ React Native, Expo, Expo Router, Supabase, JavaScript, Dappier (planned), PicaOS
 ## 📌 Note
 
 This app is currently not fully functional. It is under **active development** and submitted as part of the **Bolt Hackathon** as a work-in-progress. Your feedback is welcome!
+
+## License
+
+This project is licensed under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
