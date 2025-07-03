@@ -2,6 +2,7 @@
 
 > A work-in-progress AI-powered virtual try-on and fashion assistant.
 
+**BUILT with Bolt.new
 
 ## 🔮 Inspiration
 
