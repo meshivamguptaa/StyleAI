@@ -1,0 +1,20 @@
+declare global {
+  namespace NodeJS {
+    interface ProcessEnv {
+      EXPO_PUBLIC_SUPABASE_URL: string;
+      EXPO_PUBLIC_SUPABASE_ANON_KEY: string;
+      EXPO_PUBLIC_DAPPIER_API_KEY: string;
+      EXPO_PUBLIC_PICA_API_KEY: string;
+      EXPO_PUBLIC_REVENUECAT_API_KEY: string;
+      EXPO_PUBLIC_PICA_SECRET_KEY: string;
+      EXPO_PUBLIC_PICA_OPENAI_CONNECTION_KEY: string;
+      EXPO_PUBLIC_PICA_GEMINI_CONNECTION_KEY: string;
+      EXPO_PUBLIC_PICA_DIFFBOT_CONNECTION_KEY: string;
+      EXPO_PUBLIC_PICA_FIRECRAWL_CONNECTION_KEY: string;
+      EXPO_PUBLIC_PICA_MAKE_CONNECTION_KEY: string;
+      EXPO_PUBLIC_ELEVEN_LABS_API_KEY: string;
+    }
+  }
+}
+
+export {};
